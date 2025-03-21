@@ -34,7 +34,7 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img height="250em" src="https://github-readme-stats.vercel.app/api?username=MoisesOliveira21&show_icons=true&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MoisesOliveira21&show_icons=true&theme=dark"/>
 </p>
 
 ---
